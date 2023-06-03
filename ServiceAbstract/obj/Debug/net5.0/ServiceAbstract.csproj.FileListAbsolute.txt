@@ -1,0 +1,24 @@
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\ServiceAbstract\bin\Debug\net5.0\ServiceAbstract.deps.json
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\ServiceAbstract\bin\Debug\net5.0\ServiceAbstract.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\ServiceAbstract\bin\Debug\net5.0\ServiceAbstract.pdb
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.csproj.AssemblyReference.cache
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.AssemblyInfoInputs.cache
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.AssemblyInfo.cs
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.csproj.CoreCompileInputs.cache
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\ServiceAbstract\obj\Debug\net5.0\refint\ServiceAbstract.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.pdb
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\ServiceAbstract\obj\Debug\net5.0\ref\ServiceAbstract.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\ServiceAbstract\bin\Debug\net5.0\ServiceAbstract.deps.json
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\ServiceAbstract\bin\Debug\net5.0\ServiceAbstract.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\ServiceAbstract\bin\Debug\net5.0\ServiceAbstract.pdb
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.csproj.AssemblyReference.cache
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.AssemblyInfoInputs.cache
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.AssemblyInfo.cs
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.csproj.CoreCompileInputs.cache
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\ServiceAbstract\obj\Debug\net5.0\refint\ServiceAbstract.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\ServiceAbstract\obj\Debug\net5.0\ServiceAbstract.pdb
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\ServiceAbstract\obj\Debug\net5.0\ref\ServiceAbstract.dll

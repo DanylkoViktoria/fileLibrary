@@ -1,0 +1,32 @@
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\bin\Debug\net5.0\connection.json
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\bin\Debug\net5.0\DAL.atappz3.deps.json
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\bin\Debug\net5.0\DAL.atappz3.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\bin\Debug\net5.0\DAL.atappz3.pdb
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\bin\Debug\net5.0\ServiceAbstract.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\bin\Debug\net5.0\ServiceAbstract.pdb
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.csproj.AssemblyReference.cache
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.AssemblyInfoInputs.cache
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.AssemblyInfo.cs
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.csproj.CoreCompileInputs.cache
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.csproj.CopyComplete
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\obj\Debug\net5.0\refint\DAL.atappz3.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.pdb
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2\DAL.atappz3\obj\Debug\net5.0\ref\DAL.atappz3.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\bin\Debug\net5.0\connection.json
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\bin\Debug\net5.0\DAL.atappz3.deps.json
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\bin\Debug\net5.0\DAL.atappz3.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\bin\Debug\net5.0\DAL.atappz3.pdb
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\bin\Debug\net5.0\ServiceAbstract.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\bin\Debug\net5.0\ServiceAbstract.pdb
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.csproj.AssemblyReference.cache
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.AssemblyInfoInputs.cache
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.AssemblyInfo.cs
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.csproj.CoreCompileInputs.cache
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.csproj.CopyComplete
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\obj\Debug\net5.0\refint\DAL.atappz3.dll
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\obj\Debug\net5.0\DAL.atappz3.pdb
+C:\Users\vladr\Downloads\Telegram Desktop\atappz3_2 (3)\atappz3_2 - Copy\DAL.atappz3\obj\Debug\net5.0\ref\DAL.atappz3.dll

@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "NpgSqlConnection": "Host=localhost;Port=5432;Username=postgres;Password=postgres;Database=fileLibrary;"
+  }
+}
